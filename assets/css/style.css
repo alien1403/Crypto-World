@@ -324,7 +324,7 @@ td:first-child{
   }
 }
 
-@media screen and (min-width: 768px) and (max-width: 990px){  
+@media (min-width: 768px) and (max-width: 990px){  
   
   td:nth-child(2){
     color: rgb(206, 195, 195);
@@ -437,5 +437,4 @@ td:first-child{
   .container2 .coin-price div h1{
     font-size: 20px;
   }
-  
 }
