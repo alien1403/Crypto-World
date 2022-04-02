@@ -10,3 +10,10 @@ Partea 1:
     - latime mai mica de 768px
     - latime intre 768px si 1280px
     - latime mai mare de 1280px 
+Partea 2:
+- JavaScript (11 puncte) - termen ?
+  - fisiere separate de JavaScript (0.5 puncte)
+  - Operatii asupra DOM-ului (create, edit, delete pe noduri, folosirea datelor din noduri) (4 puncte)
+  - Evenimente de mouse si tastatura, direct pe element dar si cu addEventListener (2 puncte)
+  - Folosirea Ajax pentru POST, PUT, GET, DELETE (4 puncte)
+  - Folosirea json-server (0.5 puncte)
