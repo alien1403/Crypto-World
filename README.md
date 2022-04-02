@@ -9,9 +9,7 @@ Partea 1:
   - site-ul sa fie responsive pentru urmatoarele dimensiuni:(4 puncte)
     - latime mai mica de 768px
     - latime intre 768px si 1280px
-    - latime mai mare de 1280px 
-```
-```
+    - latime mai mare de 1280px \
 Partea 2:
 - JavaScript (11 puncte) - termen ?
   - fisiere separate de JavaScript (0.5 puncte)
